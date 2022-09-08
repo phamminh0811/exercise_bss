@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 
 
@@ -47,7 +48,7 @@ input[type=text], input[type=password] {
     text-decoration: none;
     color: #5ea2f4;
   }
-#login .button-control {
+form .button-control {
     background-color: #f39629;
     border-color: #f39629;
     color: rgb(255, 255, 255);
